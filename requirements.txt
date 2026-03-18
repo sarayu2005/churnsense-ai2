@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lifelines
+dowhy
+torch
+fpdf2
+statsmodels
